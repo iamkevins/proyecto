@@ -23,13 +23,13 @@
 			</h2>
 			<p>
 				<br>
-				Desde que estamos juntos hemos pasdo por altos y bajos, por aledrias y penas...
+				Desde que estamos juntos hemos pasado por altos y bajos, por alegrías y penas...
 				<br>
 				Hemos pasado por mucho y aún estamos juntos y con ganas de amarnos cada día.
 				<br>
-				Eso es lo que mas metiva a seguir adelante con nuetro amor y con nustros proyectos.
+				Eso es lo que más motiva a seguir adelante con nuestro amor y con nuestros proyectos.
 				<br>
-				De tan solo pensar que tendremos un bebe me da tanta alegria y emocion.
+				De tan solo pensar que tendremos un bebe me da tanta alegría y emoción.
 				<br><br>
 				Me hacer muy feliz.
 				<br><br>
