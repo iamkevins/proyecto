@@ -7,6 +7,7 @@
 
 body{
 	width: 100%;
+	background-color:#141414 ;
 
 }
 .parallax{
@@ -33,10 +34,12 @@ h2{
 	font-family: 'Quicksand', sans-serif;
 	font-size: 32px;
 	font-weight: 400;
+
 }
 
 .center{
-
+	background: #141414;
+	color:white;
 	font-family: 'Quicksand', sans-serif;
 	max-width: 1000px;
 	width: 80%;
@@ -76,12 +79,14 @@ h2{
 }
 
 .center2{
-
+	background: #141414;
+	color:white;
 	font-family: 'Quicksand', sans-serif;
 	max-width: 1000px;
 	width: 80%;
 	overflow: hidden;
 	margin: auto;
+
 }
 
 .espacio2{
@@ -116,7 +121,8 @@ h2{
 }
 
 .center3{
-
+	background: #141414;
+	color:white;
 	font-family: 'Quicksand', sans-serif;
 	max-width: 1000px;
 	width: 80%;
